@@ -96,14 +96,6 @@ th.large-2 {
 th.large-2.first {
   padding-left: 16px; }
 
-th.large-5 {
-  width: 234px;
-  padding-left: 8px;
-  padding-right: 8px; }
-
-th.large-5.first {
-  padding-left: 16px; }
-
 th.large-6 {
   width: 284px;
   padding-left: 8px;
@@ -113,14 +105,6 @@ th.large-6.first {
   padding-left: 16px; }
 
 th.large-6.last {
-  padding-right: 16px; }
-
-th.large-7 {
-  width: 334px;
-  padding-left: 8px;
-  padding-right: 8px; }
-
-th.large-7.last {
   padding-right: 16px; }
 
 th.large-10 {
@@ -313,6 +297,10 @@ h1 {
 .light-blue-full-width {
   background: #009bdf; }
 
+.light-blue-full-width a {
+  color: #ffffff;
+  font-weight: bold; }
+
 .footer {
   background: #4a4f55; }
 
@@ -397,10 +385,6 @@ sup {
 .top-bar {
   background: #005587; }
 
-.intro-cta {
-  font-size: 14px;
-  text-align: right; }
-
 table.button {
   margin-bottom: 0px !important; }
 
@@ -412,8 +396,5 @@ th.large-6.address-cell {
     width: 42px !important;
     height: 42px !important;
     margin: 0 5px; }
-  .intro-cta {
-    font-size: 1em;
-    text-align: center; }
   .footer p {
     text-align: center; } }
